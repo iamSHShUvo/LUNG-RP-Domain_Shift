@@ -1,4 +1,4 @@
-# An Explainable AI Model Integrating Radiomics and Dosiomics to Predict Radiation Pneumonitis in Lung Cancer: Development and External Validation in a Bangladeshi Cohort
+# Cross-Population Generizability Analysis of Radiomics and Dosiomics for Predicting Radiation Pneumonitis: A Domain-Shift Analysis in a South Asian Cohort
 
 
 <p align="center">
@@ -81,7 +81,8 @@ The project follows a powerful pipeline for medical AI research, integrating mul
 
 ![Status: Ongoing](https://img.shields.io/badge/Status-Ongoing-brightgreen.svg)
 
-This is an active research project for my undergraduate thesis, due in December 2025.
+This is an active research project for my undergraduate thesis, due in January 2025.
 
 ---
+
 
